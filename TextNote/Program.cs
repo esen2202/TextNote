@@ -7,6 +7,7 @@
 ///                     Dosya ile Aynı Dizine Aynı Dosya İsmi ile Text Dökümanı Oluşturur ve
 ///                     Text Dökümanına Veri Girilmek Üzere Açar.
 /// Communication   :   erkanesen2202@gmail.com
+///                 :   27.07.2016 Added SourceControl
 /// </summary>
 
 using System;
